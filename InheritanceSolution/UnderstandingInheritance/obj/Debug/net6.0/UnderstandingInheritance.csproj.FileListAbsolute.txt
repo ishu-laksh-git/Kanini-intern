@@ -1,0 +1,5 @@
+C:\Users\Welcome\source\repos\InheritanceSolution\UnderstandingInheritance\obj\Debug\net6.0\UnderstandingInheritance.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\InheritanceSolution\UnderstandingInheritance\obj\Debug\net6.0\UnderstandingInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\InheritanceSolution\UnderstandingInheritance\obj\Debug\net6.0\UnderstandingInheritance.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\InheritanceSolution\UnderstandingInheritance\obj\Debug\net6.0\UnderstandingInheritance.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\InheritanceSolution\UnderstandingInheritance\obj\Debug\net6.0\UnderstandingInheritance.csproj.CoreCompileInputs.cache

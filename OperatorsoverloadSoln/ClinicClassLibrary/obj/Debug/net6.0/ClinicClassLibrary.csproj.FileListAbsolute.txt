@@ -1,0 +1,15 @@
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\ClinicClassLibrary\bin\Debug\net6.0\ClinicClassLibrary.deps.json
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\ClinicClassLibrary\bin\Debug\net6.0\ClinicClassLibrary.dll
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\ClinicClassLibrary\bin\Debug\net6.0\ClinicClassLibrary.pdb
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\ClinicClassLibrary\bin\Debug\net6.0\DoctorClassLibrary.dll
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\ClinicClassLibrary\bin\Debug\net6.0\DoctorClassLibrary.pdb
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\ClinicClassLibrary\obj\Debug\net6.0\ClinicClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\ClinicClassLibrary\obj\Debug\net6.0\ClinicClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\ClinicClassLibrary\obj\Debug\net6.0\ClinicClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\ClinicClassLibrary\obj\Debug\net6.0\ClinicClassLibrary.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\ClinicClassLibrary\obj\Debug\net6.0\ClinicClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\ClinicClassLibrary\obj\Debug\net6.0\ClinicClassLibrary.csproj.CopyComplete
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\ClinicClassLibrary\obj\Debug\net6.0\ClinicClassLibrary.dll
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\ClinicClassLibrary\obj\Debug\net6.0\refint\ClinicClassLibrary.dll
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\ClinicClassLibrary\obj\Debug\net6.0\ClinicClassLibrary.pdb
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\ClinicClassLibrary\obj\Debug\net6.0\ref\ClinicClassLibrary.dll

@@ -1,0 +1,15 @@
+C:\Users\Welcome\source\repos\UnderstandingPartialSoln\UnderstandingPartialApp\bin\Debug\net6.0\UnderstandingPartialApp.exe
+C:\Users\Welcome\source\repos\UnderstandingPartialSoln\UnderstandingPartialApp\bin\Debug\net6.0\UnderstandingPartialApp.deps.json
+C:\Users\Welcome\source\repos\UnderstandingPartialSoln\UnderstandingPartialApp\bin\Debug\net6.0\UnderstandingPartialApp.runtimeconfig.json
+C:\Users\Welcome\source\repos\UnderstandingPartialSoln\UnderstandingPartialApp\bin\Debug\net6.0\UnderstandingPartialApp.dll
+C:\Users\Welcome\source\repos\UnderstandingPartialSoln\UnderstandingPartialApp\bin\Debug\net6.0\UnderstandingPartialApp.pdb
+C:\Users\Welcome\source\repos\UnderstandingPartialSoln\UnderstandingPartialApp\obj\Debug\net6.0\UnderstandingPartialApp.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\UnderstandingPartialSoln\UnderstandingPartialApp\obj\Debug\net6.0\UnderstandingPartialApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\UnderstandingPartialSoln\UnderstandingPartialApp\obj\Debug\net6.0\UnderstandingPartialApp.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\UnderstandingPartialSoln\UnderstandingPartialApp\obj\Debug\net6.0\UnderstandingPartialApp.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\UnderstandingPartialSoln\UnderstandingPartialApp\obj\Debug\net6.0\UnderstandingPartialApp.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\UnderstandingPartialSoln\UnderstandingPartialApp\obj\Debug\net6.0\UnderstandingPartialApp.dll
+C:\Users\Welcome\source\repos\UnderstandingPartialSoln\UnderstandingPartialApp\obj\Debug\net6.0\refint\UnderstandingPartialApp.dll
+C:\Users\Welcome\source\repos\UnderstandingPartialSoln\UnderstandingPartialApp\obj\Debug\net6.0\UnderstandingPartialApp.pdb
+C:\Users\Welcome\source\repos\UnderstandingPartialSoln\UnderstandingPartialApp\obj\Debug\net6.0\UnderstandingPartialApp.genruntimeconfig.cache
+C:\Users\Welcome\source\repos\UnderstandingPartialSoln\UnderstandingPartialApp\obj\Debug\net6.0\ref\UnderstandingPartialApp.dll

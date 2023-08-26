@@ -1,0 +1,15 @@
+C:\Users\Welcome\source\repos\UnderstandinggenericdelegatesSoln\UnderstandinggenericdelegatesApp\bin\Debug\net6.0\UnderstandinggenericdelegatesApp.exe
+C:\Users\Welcome\source\repos\UnderstandinggenericdelegatesSoln\UnderstandinggenericdelegatesApp\bin\Debug\net6.0\UnderstandinggenericdelegatesApp.deps.json
+C:\Users\Welcome\source\repos\UnderstandinggenericdelegatesSoln\UnderstandinggenericdelegatesApp\bin\Debug\net6.0\UnderstandinggenericdelegatesApp.runtimeconfig.json
+C:\Users\Welcome\source\repos\UnderstandinggenericdelegatesSoln\UnderstandinggenericdelegatesApp\bin\Debug\net6.0\UnderstandinggenericdelegatesApp.dll
+C:\Users\Welcome\source\repos\UnderstandinggenericdelegatesSoln\UnderstandinggenericdelegatesApp\bin\Debug\net6.0\UnderstandinggenericdelegatesApp.pdb
+C:\Users\Welcome\source\repos\UnderstandinggenericdelegatesSoln\UnderstandinggenericdelegatesApp\obj\Debug\net6.0\UnderstandinggenericdelegatesApp.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\UnderstandinggenericdelegatesSoln\UnderstandinggenericdelegatesApp\obj\Debug\net6.0\UnderstandinggenericdelegatesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\UnderstandinggenericdelegatesSoln\UnderstandinggenericdelegatesApp\obj\Debug\net6.0\UnderstandinggenericdelegatesApp.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\UnderstandinggenericdelegatesSoln\UnderstandinggenericdelegatesApp\obj\Debug\net6.0\UnderstandinggenericdelegatesApp.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\UnderstandinggenericdelegatesSoln\UnderstandinggenericdelegatesApp\obj\Debug\net6.0\UnderstandinggenericdelegatesApp.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\UnderstandinggenericdelegatesSoln\UnderstandinggenericdelegatesApp\obj\Debug\net6.0\UnderstandinggenericdelegatesApp.dll
+C:\Users\Welcome\source\repos\UnderstandinggenericdelegatesSoln\UnderstandinggenericdelegatesApp\obj\Debug\net6.0\refint\UnderstandinggenericdelegatesApp.dll
+C:\Users\Welcome\source\repos\UnderstandinggenericdelegatesSoln\UnderstandinggenericdelegatesApp\obj\Debug\net6.0\UnderstandinggenericdelegatesApp.pdb
+C:\Users\Welcome\source\repos\UnderstandinggenericdelegatesSoln\UnderstandinggenericdelegatesApp\obj\Debug\net6.0\UnderstandinggenericdelegatesApp.genruntimeconfig.cache
+C:\Users\Welcome\source\repos\UnderstandinggenericdelegatesSoln\UnderstandinggenericdelegatesApp\obj\Debug\net6.0\ref\UnderstandinggenericdelegatesApp.dll

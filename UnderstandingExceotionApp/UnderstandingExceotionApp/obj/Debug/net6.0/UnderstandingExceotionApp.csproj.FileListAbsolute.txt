@@ -1,0 +1,15 @@
+C:\Users\Welcome\source\repos\UnderstandingExceotionApp\UnderstandingExceotionApp\bin\Debug\net6.0\UnderstandingExceotionApp.exe
+C:\Users\Welcome\source\repos\UnderstandingExceotionApp\UnderstandingExceotionApp\bin\Debug\net6.0\UnderstandingExceotionApp.deps.json
+C:\Users\Welcome\source\repos\UnderstandingExceotionApp\UnderstandingExceotionApp\bin\Debug\net6.0\UnderstandingExceotionApp.runtimeconfig.json
+C:\Users\Welcome\source\repos\UnderstandingExceotionApp\UnderstandingExceotionApp\bin\Debug\net6.0\UnderstandingExceotionApp.dll
+C:\Users\Welcome\source\repos\UnderstandingExceotionApp\UnderstandingExceotionApp\bin\Debug\net6.0\UnderstandingExceotionApp.pdb
+C:\Users\Welcome\source\repos\UnderstandingExceotionApp\UnderstandingExceotionApp\obj\Debug\net6.0\UnderstandingExceotionApp.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\UnderstandingExceotionApp\UnderstandingExceotionApp\obj\Debug\net6.0\UnderstandingExceotionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\UnderstandingExceotionApp\UnderstandingExceotionApp\obj\Debug\net6.0\UnderstandingExceotionApp.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\UnderstandingExceotionApp\UnderstandingExceotionApp\obj\Debug\net6.0\UnderstandingExceotionApp.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\UnderstandingExceotionApp\UnderstandingExceotionApp\obj\Debug\net6.0\UnderstandingExceotionApp.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\UnderstandingExceotionApp\UnderstandingExceotionApp\obj\Debug\net6.0\UnderstandingExceotionApp.dll
+C:\Users\Welcome\source\repos\UnderstandingExceotionApp\UnderstandingExceotionApp\obj\Debug\net6.0\refint\UnderstandingExceotionApp.dll
+C:\Users\Welcome\source\repos\UnderstandingExceotionApp\UnderstandingExceotionApp\obj\Debug\net6.0\UnderstandingExceotionApp.pdb
+C:\Users\Welcome\source\repos\UnderstandingExceotionApp\UnderstandingExceotionApp\obj\Debug\net6.0\UnderstandingExceotionApp.genruntimeconfig.cache
+C:\Users\Welcome\source\repos\UnderstandingExceotionApp\UnderstandingExceotionApp\obj\Debug\net6.0\ref\UnderstandingExceotionApp.dll

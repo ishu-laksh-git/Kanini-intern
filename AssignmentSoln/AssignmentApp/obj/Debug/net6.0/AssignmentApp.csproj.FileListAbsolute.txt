@@ -1,0 +1,15 @@
+C:\Users\Welcome\source\repos\AssignmentSoln\AssignmentApp\bin\Debug\net6.0\AssignmentApp.exe
+C:\Users\Welcome\source\repos\AssignmentSoln\AssignmentApp\bin\Debug\net6.0\AssignmentApp.deps.json
+C:\Users\Welcome\source\repos\AssignmentSoln\AssignmentApp\bin\Debug\net6.0\AssignmentApp.runtimeconfig.json
+C:\Users\Welcome\source\repos\AssignmentSoln\AssignmentApp\bin\Debug\net6.0\AssignmentApp.dll
+C:\Users\Welcome\source\repos\AssignmentSoln\AssignmentApp\bin\Debug\net6.0\AssignmentApp.pdb
+C:\Users\Welcome\source\repos\AssignmentSoln\AssignmentApp\obj\Debug\net6.0\AssignmentApp.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\AssignmentSoln\AssignmentApp\obj\Debug\net6.0\AssignmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\AssignmentSoln\AssignmentApp\obj\Debug\net6.0\AssignmentApp.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\AssignmentSoln\AssignmentApp\obj\Debug\net6.0\AssignmentApp.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\AssignmentSoln\AssignmentApp\obj\Debug\net6.0\AssignmentApp.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\AssignmentSoln\AssignmentApp\obj\Debug\net6.0\AssignmentApp.dll
+C:\Users\Welcome\source\repos\AssignmentSoln\AssignmentApp\obj\Debug\net6.0\refint\AssignmentApp.dll
+C:\Users\Welcome\source\repos\AssignmentSoln\AssignmentApp\obj\Debug\net6.0\AssignmentApp.pdb
+C:\Users\Welcome\source\repos\AssignmentSoln\AssignmentApp\obj\Debug\net6.0\AssignmentApp.genruntimeconfig.cache
+C:\Users\Welcome\source\repos\AssignmentSoln\AssignmentApp\obj\Debug\net6.0\ref\AssignmentApp.dll

@@ -1,0 +1,15 @@
+C:\Users\Welcome\source\repos\DocSoln\DocApp\bin\Debug\net6.0\DocApp.exe
+C:\Users\Welcome\source\repos\DocSoln\DocApp\bin\Debug\net6.0\DocApp.deps.json
+C:\Users\Welcome\source\repos\DocSoln\DocApp\bin\Debug\net6.0\DocApp.runtimeconfig.json
+C:\Users\Welcome\source\repos\DocSoln\DocApp\bin\Debug\net6.0\DocApp.dll
+C:\Users\Welcome\source\repos\DocSoln\DocApp\bin\Debug\net6.0\DocApp.pdb
+C:\Users\Welcome\source\repos\DocSoln\DocApp\obj\Debug\net6.0\DocApp.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\DocSoln\DocApp\obj\Debug\net6.0\DocApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\DocSoln\DocApp\obj\Debug\net6.0\DocApp.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\DocSoln\DocApp\obj\Debug\net6.0\DocApp.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\DocSoln\DocApp\obj\Debug\net6.0\DocApp.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\DocSoln\DocApp\obj\Debug\net6.0\DocApp.dll
+C:\Users\Welcome\source\repos\DocSoln\DocApp\obj\Debug\net6.0\refint\DocApp.dll
+C:\Users\Welcome\source\repos\DocSoln\DocApp\obj\Debug\net6.0\DocApp.pdb
+C:\Users\Welcome\source\repos\DocSoln\DocApp\obj\Debug\net6.0\DocApp.genruntimeconfig.cache
+C:\Users\Welcome\source\repos\DocSoln\DocApp\obj\Debug\net6.0\ref\DocApp.dll

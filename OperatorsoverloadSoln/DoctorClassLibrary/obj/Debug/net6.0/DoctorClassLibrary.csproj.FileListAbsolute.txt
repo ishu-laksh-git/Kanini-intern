@@ -1,0 +1,12 @@
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\DoctorClassLibrary\obj\Debug\net6.0\DoctorClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\DoctorClassLibrary\obj\Debug\net6.0\DoctorClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\DoctorClassLibrary\obj\Debug\net6.0\DoctorClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\DoctorClassLibrary\obj\Debug\net6.0\DoctorClassLibrary.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\DoctorClassLibrary\obj\Debug\net6.0\DoctorClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\DoctorClassLibrary\bin\Debug\net6.0\DoctorClassLibrary.deps.json
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\DoctorClassLibrary\bin\Debug\net6.0\DoctorClassLibrary.dll
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\DoctorClassLibrary\bin\Debug\net6.0\DoctorClassLibrary.pdb
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\DoctorClassLibrary\obj\Debug\net6.0\DoctorClassLibrary.dll
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\DoctorClassLibrary\obj\Debug\net6.0\refint\DoctorClassLibrary.dll
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\DoctorClassLibrary\obj\Debug\net6.0\DoctorClassLibrary.pdb
+C:\Users\Welcome\source\repos\OperatorsoverloadSoln\DoctorClassLibrary\obj\Debug\net6.0\ref\DoctorClassLibrary.dll

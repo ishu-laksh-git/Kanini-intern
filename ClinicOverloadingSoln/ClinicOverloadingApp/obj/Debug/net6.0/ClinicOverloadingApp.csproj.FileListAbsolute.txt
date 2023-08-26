@@ -1,0 +1,15 @@
+C:\Users\Welcome\source\repos\ClinicOverloadingSoln\ClinicOverloadingApp\bin\Debug\net6.0\ClinicOverloadingApp.exe
+C:\Users\Welcome\source\repos\ClinicOverloadingSoln\ClinicOverloadingApp\bin\Debug\net6.0\ClinicOverloadingApp.deps.json
+C:\Users\Welcome\source\repos\ClinicOverloadingSoln\ClinicOverloadingApp\bin\Debug\net6.0\ClinicOverloadingApp.runtimeconfig.json
+C:\Users\Welcome\source\repos\ClinicOverloadingSoln\ClinicOverloadingApp\bin\Debug\net6.0\ClinicOverloadingApp.dll
+C:\Users\Welcome\source\repos\ClinicOverloadingSoln\ClinicOverloadingApp\bin\Debug\net6.0\ClinicOverloadingApp.pdb
+C:\Users\Welcome\source\repos\ClinicOverloadingSoln\ClinicOverloadingApp\obj\Debug\net6.0\ClinicOverloadingApp.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\ClinicOverloadingSoln\ClinicOverloadingApp\obj\Debug\net6.0\ClinicOverloadingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\ClinicOverloadingSoln\ClinicOverloadingApp\obj\Debug\net6.0\ClinicOverloadingApp.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\ClinicOverloadingSoln\ClinicOverloadingApp\obj\Debug\net6.0\ClinicOverloadingApp.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\ClinicOverloadingSoln\ClinicOverloadingApp\obj\Debug\net6.0\ClinicOverloadingApp.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\ClinicOverloadingSoln\ClinicOverloadingApp\obj\Debug\net6.0\ClinicOverloadingApp.dll
+C:\Users\Welcome\source\repos\ClinicOverloadingSoln\ClinicOverloadingApp\obj\Debug\net6.0\refint\ClinicOverloadingApp.dll
+C:\Users\Welcome\source\repos\ClinicOverloadingSoln\ClinicOverloadingApp\obj\Debug\net6.0\ClinicOverloadingApp.pdb
+C:\Users\Welcome\source\repos\ClinicOverloadingSoln\ClinicOverloadingApp\obj\Debug\net6.0\ClinicOverloadingApp.genruntimeconfig.cache
+C:\Users\Welcome\source\repos\ClinicOverloadingSoln\ClinicOverloadingApp\obj\Debug\net6.0\ref\ClinicOverloadingApp.dll

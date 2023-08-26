@@ -1,0 +1,12 @@
+C:\Users\Welcome\source\repos\PizzaAppSoln\PizzaModelLibrary\bin\Debug\net6.0\PizzaModelLibrary.deps.json
+C:\Users\Welcome\source\repos\PizzaAppSoln\PizzaModelLibrary\bin\Debug\net6.0\PizzaModelLibrary.dll
+C:\Users\Welcome\source\repos\PizzaAppSoln\PizzaModelLibrary\bin\Debug\net6.0\PizzaModelLibrary.pdb
+C:\Users\Welcome\source\repos\PizzaAppSoln\PizzaModelLibrary\obj\Debug\net6.0\PizzaModelLibrary.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\PizzaAppSoln\PizzaModelLibrary\obj\Debug\net6.0\PizzaModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\PizzaAppSoln\PizzaModelLibrary\obj\Debug\net6.0\PizzaModelLibrary.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\PizzaAppSoln\PizzaModelLibrary\obj\Debug\net6.0\PizzaModelLibrary.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\PizzaAppSoln\PizzaModelLibrary\obj\Debug\net6.0\PizzaModelLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\PizzaAppSoln\PizzaModelLibrary\obj\Debug\net6.0\PizzaModelLibrary.dll
+C:\Users\Welcome\source\repos\PizzaAppSoln\PizzaModelLibrary\obj\Debug\net6.0\refint\PizzaModelLibrary.dll
+C:\Users\Welcome\source\repos\PizzaAppSoln\PizzaModelLibrary\obj\Debug\net6.0\PizzaModelLibrary.pdb
+C:\Users\Welcome\source\repos\PizzaAppSoln\PizzaModelLibrary\obj\Debug\net6.0\ref\PizzaModelLibrary.dll

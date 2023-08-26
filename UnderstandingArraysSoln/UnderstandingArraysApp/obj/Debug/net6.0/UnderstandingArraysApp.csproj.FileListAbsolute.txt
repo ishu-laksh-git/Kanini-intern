@@ -1,0 +1,15 @@
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingArraysApp\bin\Debug\net6.0\UnderstandingArraysApp.exe
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingArraysApp\bin\Debug\net6.0\UnderstandingArraysApp.deps.json
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingArraysApp\bin\Debug\net6.0\UnderstandingArraysApp.runtimeconfig.json
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingArraysApp\bin\Debug\net6.0\UnderstandingArraysApp.dll
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingArraysApp\bin\Debug\net6.0\UnderstandingArraysApp.pdb
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingArraysApp\obj\Debug\net6.0\UnderstandingArraysApp.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingArraysApp\obj\Debug\net6.0\UnderstandingArraysApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingArraysApp\obj\Debug\net6.0\UnderstandingArraysApp.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingArraysApp\obj\Debug\net6.0\UnderstandingArraysApp.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingArraysApp\obj\Debug\net6.0\UnderstandingArraysApp.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingArraysApp\obj\Debug\net6.0\UnderstandingArraysApp.dll
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingArraysApp\obj\Debug\net6.0\refint\UnderstandingArraysApp.dll
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingArraysApp\obj\Debug\net6.0\UnderstandingArraysApp.pdb
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingArraysApp\obj\Debug\net6.0\UnderstandingArraysApp.genruntimeconfig.cache
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingArraysApp\obj\Debug\net6.0\ref\UnderstandingArraysApp.dll

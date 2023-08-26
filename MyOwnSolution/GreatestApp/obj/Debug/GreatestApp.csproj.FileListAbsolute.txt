@@ -1,0 +1,8 @@
+C:\Users\Welcome\source\repos\MyOwnSolution\GreatestApp\bin\Debug\GreatestApp.exe.config
+C:\Users\Welcome\source\repos\MyOwnSolution\GreatestApp\bin\Debug\GreatestApp.exe
+C:\Users\Welcome\source\repos\MyOwnSolution\GreatestApp\bin\Debug\GreatestApp.pdb
+C:\Users\Welcome\source\repos\MyOwnSolution\GreatestApp\obj\Debug\GreatestApp.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\MyOwnSolution\GreatestApp\obj\Debug\GreatestApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Welcome\source\repos\MyOwnSolution\GreatestApp\obj\Debug\GreatestApp.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\MyOwnSolution\GreatestApp\obj\Debug\GreatestApp.exe
+C:\Users\Welcome\source\repos\MyOwnSolution\GreatestApp\obj\Debug\GreatestApp.pdb

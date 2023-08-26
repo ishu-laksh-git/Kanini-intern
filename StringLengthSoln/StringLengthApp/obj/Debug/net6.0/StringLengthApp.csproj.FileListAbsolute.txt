@@ -1,0 +1,15 @@
+C:\Users\Welcome\source\repos\StringLengthSoln\StringLengthApp\bin\Debug\net6.0\StringLengthApp.exe
+C:\Users\Welcome\source\repos\StringLengthSoln\StringLengthApp\bin\Debug\net6.0\StringLengthApp.deps.json
+C:\Users\Welcome\source\repos\StringLengthSoln\StringLengthApp\bin\Debug\net6.0\StringLengthApp.runtimeconfig.json
+C:\Users\Welcome\source\repos\StringLengthSoln\StringLengthApp\bin\Debug\net6.0\StringLengthApp.dll
+C:\Users\Welcome\source\repos\StringLengthSoln\StringLengthApp\bin\Debug\net6.0\StringLengthApp.pdb
+C:\Users\Welcome\source\repos\StringLengthSoln\StringLengthApp\obj\Debug\net6.0\StringLengthApp.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\StringLengthSoln\StringLengthApp\obj\Debug\net6.0\StringLengthApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\StringLengthSoln\StringLengthApp\obj\Debug\net6.0\StringLengthApp.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\StringLengthSoln\StringLengthApp\obj\Debug\net6.0\StringLengthApp.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\StringLengthSoln\StringLengthApp\obj\Debug\net6.0\StringLengthApp.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\StringLengthSoln\StringLengthApp\obj\Debug\net6.0\StringLengthApp.dll
+C:\Users\Welcome\source\repos\StringLengthSoln\StringLengthApp\obj\Debug\net6.0\refint\StringLengthApp.dll
+C:\Users\Welcome\source\repos\StringLengthSoln\StringLengthApp\obj\Debug\net6.0\StringLengthApp.pdb
+C:\Users\Welcome\source\repos\StringLengthSoln\StringLengthApp\obj\Debug\net6.0\StringLengthApp.genruntimeconfig.cache
+C:\Users\Welcome\source\repos\StringLengthSoln\StringLengthApp\obj\Debug\net6.0\ref\StringLengthApp.dll

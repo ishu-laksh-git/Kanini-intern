@@ -1,0 +1,15 @@
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingUserTypeArraysApp\bin\Debug\net6.0\UnderstandingUserTypeArraysApp.exe
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingUserTypeArraysApp\bin\Debug\net6.0\UnderstandingUserTypeArraysApp.deps.json
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingUserTypeArraysApp\bin\Debug\net6.0\UnderstandingUserTypeArraysApp.runtimeconfig.json
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingUserTypeArraysApp\bin\Debug\net6.0\UnderstandingUserTypeArraysApp.dll
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingUserTypeArraysApp\bin\Debug\net6.0\UnderstandingUserTypeArraysApp.pdb
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingUserTypeArraysApp\obj\Debug\net6.0\UnderstandingUserTypeArraysApp.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingUserTypeArraysApp\obj\Debug\net6.0\UnderstandingUserTypeArraysApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingUserTypeArraysApp\obj\Debug\net6.0\UnderstandingUserTypeArraysApp.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingUserTypeArraysApp\obj\Debug\net6.0\UnderstandingUserTypeArraysApp.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingUserTypeArraysApp\obj\Debug\net6.0\UnderstandingUserTypeArraysApp.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingUserTypeArraysApp\obj\Debug\net6.0\UnderstandingUserTypeArraysApp.dll
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingUserTypeArraysApp\obj\Debug\net6.0\refint\UnderstandingUserTypeArraysApp.dll
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingUserTypeArraysApp\obj\Debug\net6.0\UnderstandingUserTypeArraysApp.pdb
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingUserTypeArraysApp\obj\Debug\net6.0\UnderstandingUserTypeArraysApp.genruntimeconfig.cache
+C:\Users\Welcome\source\repos\UnderstandingArraysSoln\UnderstandingUserTypeArraysApp\obj\Debug\net6.0\ref\UnderstandingUserTypeArraysApp.dll

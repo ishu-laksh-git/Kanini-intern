@@ -1,0 +1,15 @@
+C:\Users\Welcome\source\repos\UnderstandingOverridingSoln\UnderstandingOverridingApp\obj\Debug\net6.0\UnderstandingOverridingApp.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\UnderstandingOverridingSoln\UnderstandingOverridingApp\obj\Debug\net6.0\UnderstandingOverridingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\UnderstandingOverridingSoln\UnderstandingOverridingApp\obj\Debug\net6.0\UnderstandingOverridingApp.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\UnderstandingOverridingSoln\UnderstandingOverridingApp\obj\Debug\net6.0\UnderstandingOverridingApp.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\UnderstandingOverridingSoln\UnderstandingOverridingApp\obj\Debug\net6.0\UnderstandingOverridingApp.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\UnderstandingOverridingSoln\UnderstandingOverridingApp\bin\Debug\net6.0\UnderstandingOverridingApp.exe
+C:\Users\Welcome\source\repos\UnderstandingOverridingSoln\UnderstandingOverridingApp\bin\Debug\net6.0\UnderstandingOverridingApp.deps.json
+C:\Users\Welcome\source\repos\UnderstandingOverridingSoln\UnderstandingOverridingApp\bin\Debug\net6.0\UnderstandingOverridingApp.runtimeconfig.json
+C:\Users\Welcome\source\repos\UnderstandingOverridingSoln\UnderstandingOverridingApp\bin\Debug\net6.0\UnderstandingOverridingApp.dll
+C:\Users\Welcome\source\repos\UnderstandingOverridingSoln\UnderstandingOverridingApp\bin\Debug\net6.0\UnderstandingOverridingApp.pdb
+C:\Users\Welcome\source\repos\UnderstandingOverridingSoln\UnderstandingOverridingApp\obj\Debug\net6.0\UnderstandingOverridingApp.dll
+C:\Users\Welcome\source\repos\UnderstandingOverridingSoln\UnderstandingOverridingApp\obj\Debug\net6.0\refint\UnderstandingOverridingApp.dll
+C:\Users\Welcome\source\repos\UnderstandingOverridingSoln\UnderstandingOverridingApp\obj\Debug\net6.0\UnderstandingOverridingApp.pdb
+C:\Users\Welcome\source\repos\UnderstandingOverridingSoln\UnderstandingOverridingApp\obj\Debug\net6.0\UnderstandingOverridingApp.genruntimeconfig.cache
+C:\Users\Welcome\source\repos\UnderstandingOverridingSoln\UnderstandingOverridingApp\obj\Debug\net6.0\ref\UnderstandingOverridingApp.dll

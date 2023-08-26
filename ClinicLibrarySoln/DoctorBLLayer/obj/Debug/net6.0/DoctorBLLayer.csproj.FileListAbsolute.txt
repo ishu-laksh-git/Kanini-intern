@@ -1,0 +1,17 @@
+C:\Users\Welcome\source\repos\ClinicLibrarySoln\DoctorBLLayer\obj\Debug\net6.0\DoctorBLLayer.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\ClinicLibrarySoln\DoctorBLLayer\obj\Debug\net6.0\DoctorBLLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\ClinicLibrarySoln\DoctorBLLayer\obj\Debug\net6.0\DoctorBLLayer.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\ClinicLibrarySoln\DoctorBLLayer\obj\Debug\net6.0\DoctorBLLayer.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\ClinicLibrarySoln\DoctorBLLayer\obj\Debug\net6.0\DoctorBLLayer.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\ClinicLibrarySoln\DoctorBLLayer\bin\Debug\net6.0\DoctorBLLayer.deps.json
+C:\Users\Welcome\source\repos\ClinicLibrarySoln\DoctorBLLayer\bin\Debug\net6.0\DoctorBLLayer.dll
+C:\Users\Welcome\source\repos\ClinicLibrarySoln\DoctorBLLayer\bin\Debug\net6.0\DoctorBLLayer.pdb
+C:\Users\Welcome\source\repos\ClinicLibrarySoln\DoctorBLLayer\bin\Debug\net6.0\DoctorDALLibrary.dll
+C:\Users\Welcome\source\repos\ClinicLibrarySoln\DoctorBLLayer\bin\Debug\net6.0\DoctorModelLibrary.dll
+C:\Users\Welcome\source\repos\ClinicLibrarySoln\DoctorBLLayer\bin\Debug\net6.0\DoctorModelLibrary.pdb
+C:\Users\Welcome\source\repos\ClinicLibrarySoln\DoctorBLLayer\bin\Debug\net6.0\DoctorDALLibrary.pdb
+C:\Users\Welcome\source\repos\ClinicLibrarySoln\DoctorBLLayer\obj\Debug\net6.0\DoctorBLLayer.csproj.CopyComplete
+C:\Users\Welcome\source\repos\ClinicLibrarySoln\DoctorBLLayer\obj\Debug\net6.0\DoctorBLLayer.dll
+C:\Users\Welcome\source\repos\ClinicLibrarySoln\DoctorBLLayer\obj\Debug\net6.0\refint\DoctorBLLayer.dll
+C:\Users\Welcome\source\repos\ClinicLibrarySoln\DoctorBLLayer\obj\Debug\net6.0\DoctorBLLayer.pdb
+C:\Users\Welcome\source\repos\ClinicLibrarySoln\DoctorBLLayer\obj\Debug\net6.0\ref\DoctorBLLayer.dll

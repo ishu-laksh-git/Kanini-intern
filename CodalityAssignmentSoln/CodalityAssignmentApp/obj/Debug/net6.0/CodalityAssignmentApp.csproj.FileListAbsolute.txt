@@ -1,0 +1,15 @@
+C:\Users\Welcome\source\repos\CodalityAssignmentSoln\CodalityAssignmentApp\bin\Debug\net6.0\CodalityAssignmentApp.exe
+C:\Users\Welcome\source\repos\CodalityAssignmentSoln\CodalityAssignmentApp\bin\Debug\net6.0\CodalityAssignmentApp.deps.json
+C:\Users\Welcome\source\repos\CodalityAssignmentSoln\CodalityAssignmentApp\bin\Debug\net6.0\CodalityAssignmentApp.runtimeconfig.json
+C:\Users\Welcome\source\repos\CodalityAssignmentSoln\CodalityAssignmentApp\bin\Debug\net6.0\CodalityAssignmentApp.dll
+C:\Users\Welcome\source\repos\CodalityAssignmentSoln\CodalityAssignmentApp\bin\Debug\net6.0\CodalityAssignmentApp.pdb
+C:\Users\Welcome\source\repos\CodalityAssignmentSoln\CodalityAssignmentApp\obj\Debug\net6.0\CodalityAssignmentApp.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\CodalityAssignmentSoln\CodalityAssignmentApp\obj\Debug\net6.0\CodalityAssignmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\CodalityAssignmentSoln\CodalityAssignmentApp\obj\Debug\net6.0\CodalityAssignmentApp.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\CodalityAssignmentSoln\CodalityAssignmentApp\obj\Debug\net6.0\CodalityAssignmentApp.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\CodalityAssignmentSoln\CodalityAssignmentApp\obj\Debug\net6.0\CodalityAssignmentApp.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\CodalityAssignmentSoln\CodalityAssignmentApp\obj\Debug\net6.0\CodalityAssignmentApp.dll
+C:\Users\Welcome\source\repos\CodalityAssignmentSoln\CodalityAssignmentApp\obj\Debug\net6.0\refint\CodalityAssignmentApp.dll
+C:\Users\Welcome\source\repos\CodalityAssignmentSoln\CodalityAssignmentApp\obj\Debug\net6.0\CodalityAssignmentApp.pdb
+C:\Users\Welcome\source\repos\CodalityAssignmentSoln\CodalityAssignmentApp\obj\Debug\net6.0\CodalityAssignmentApp.genruntimeconfig.cache
+C:\Users\Welcome\source\repos\CodalityAssignmentSoln\CodalityAssignmentApp\obj\Debug\net6.0\ref\CodalityAssignmentApp.dll

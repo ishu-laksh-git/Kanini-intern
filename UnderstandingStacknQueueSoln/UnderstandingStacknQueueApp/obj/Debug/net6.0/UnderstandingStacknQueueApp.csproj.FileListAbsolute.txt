@@ -1,0 +1,15 @@
+C:\Users\Welcome\source\repos\UnderstandingStacknQueueSoln\UnderstandingStacknQueueApp\obj\Debug\net6.0\UnderstandingStacknQueueApp.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\UnderstandingStacknQueueSoln\UnderstandingStacknQueueApp\obj\Debug\net6.0\UnderstandingStacknQueueApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\UnderstandingStacknQueueSoln\UnderstandingStacknQueueApp\obj\Debug\net6.0\UnderstandingStacknQueueApp.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\UnderstandingStacknQueueSoln\UnderstandingStacknQueueApp\obj\Debug\net6.0\UnderstandingStacknQueueApp.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\UnderstandingStacknQueueSoln\UnderstandingStacknQueueApp\obj\Debug\net6.0\UnderstandingStacknQueueApp.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\UnderstandingStacknQueueSoln\UnderstandingStacknQueueApp\bin\Debug\net6.0\UnderstandingStacknQueueApp.exe
+C:\Users\Welcome\source\repos\UnderstandingStacknQueueSoln\UnderstandingStacknQueueApp\bin\Debug\net6.0\UnderstandingStacknQueueApp.deps.json
+C:\Users\Welcome\source\repos\UnderstandingStacknQueueSoln\UnderstandingStacknQueueApp\bin\Debug\net6.0\UnderstandingStacknQueueApp.runtimeconfig.json
+C:\Users\Welcome\source\repos\UnderstandingStacknQueueSoln\UnderstandingStacknQueueApp\bin\Debug\net6.0\UnderstandingStacknQueueApp.dll
+C:\Users\Welcome\source\repos\UnderstandingStacknQueueSoln\UnderstandingStacknQueueApp\bin\Debug\net6.0\UnderstandingStacknQueueApp.pdb
+C:\Users\Welcome\source\repos\UnderstandingStacknQueueSoln\UnderstandingStacknQueueApp\obj\Debug\net6.0\UnderstandingStacknQueueApp.dll
+C:\Users\Welcome\source\repos\UnderstandingStacknQueueSoln\UnderstandingStacknQueueApp\obj\Debug\net6.0\refint\UnderstandingStacknQueueApp.dll
+C:\Users\Welcome\source\repos\UnderstandingStacknQueueSoln\UnderstandingStacknQueueApp\obj\Debug\net6.0\UnderstandingStacknQueueApp.pdb
+C:\Users\Welcome\source\repos\UnderstandingStacknQueueSoln\UnderstandingStacknQueueApp\obj\Debug\net6.0\UnderstandingStacknQueueApp.genruntimeconfig.cache
+C:\Users\Welcome\source\repos\UnderstandingStacknQueueSoln\UnderstandingStacknQueueApp\obj\Debug\net6.0\ref\UnderstandingStacknQueueApp.dll

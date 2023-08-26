@@ -1,0 +1,15 @@
+C:\Users\Welcome\source\repos\UnderstandingIndexerSoln\UnderstandingIndexerApp\bin\Debug\net6.0\UnderstandingIndexerApp.exe
+C:\Users\Welcome\source\repos\UnderstandingIndexerSoln\UnderstandingIndexerApp\bin\Debug\net6.0\UnderstandingIndexerApp.deps.json
+C:\Users\Welcome\source\repos\UnderstandingIndexerSoln\UnderstandingIndexerApp\bin\Debug\net6.0\UnderstandingIndexerApp.runtimeconfig.json
+C:\Users\Welcome\source\repos\UnderstandingIndexerSoln\UnderstandingIndexerApp\bin\Debug\net6.0\UnderstandingIndexerApp.dll
+C:\Users\Welcome\source\repos\UnderstandingIndexerSoln\UnderstandingIndexerApp\bin\Debug\net6.0\UnderstandingIndexerApp.pdb
+C:\Users\Welcome\source\repos\UnderstandingIndexerSoln\UnderstandingIndexerApp\obj\Debug\net6.0\UnderstandingIndexerApp.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\UnderstandingIndexerSoln\UnderstandingIndexerApp\obj\Debug\net6.0\UnderstandingIndexerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\UnderstandingIndexerSoln\UnderstandingIndexerApp\obj\Debug\net6.0\UnderstandingIndexerApp.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\UnderstandingIndexerSoln\UnderstandingIndexerApp\obj\Debug\net6.0\UnderstandingIndexerApp.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\UnderstandingIndexerSoln\UnderstandingIndexerApp\obj\Debug\net6.0\UnderstandingIndexerApp.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\UnderstandingIndexerSoln\UnderstandingIndexerApp\obj\Debug\net6.0\UnderstandingIndexerApp.dll
+C:\Users\Welcome\source\repos\UnderstandingIndexerSoln\UnderstandingIndexerApp\obj\Debug\net6.0\refint\UnderstandingIndexerApp.dll
+C:\Users\Welcome\source\repos\UnderstandingIndexerSoln\UnderstandingIndexerApp\obj\Debug\net6.0\UnderstandingIndexerApp.pdb
+C:\Users\Welcome\source\repos\UnderstandingIndexerSoln\UnderstandingIndexerApp\obj\Debug\net6.0\UnderstandingIndexerApp.genruntimeconfig.cache
+C:\Users\Welcome\source\repos\UnderstandingIndexerSoln\UnderstandingIndexerApp\obj\Debug\net6.0\ref\UnderstandingIndexerApp.dll

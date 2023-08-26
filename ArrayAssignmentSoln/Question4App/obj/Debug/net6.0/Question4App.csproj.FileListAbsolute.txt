@@ -1,0 +1,15 @@
+C:\Users\Welcome\source\repos\ArrayAssignmentSoln\Question4App\bin\Debug\net6.0\Question4App.exe
+C:\Users\Welcome\source\repos\ArrayAssignmentSoln\Question4App\bin\Debug\net6.0\Question4App.deps.json
+C:\Users\Welcome\source\repos\ArrayAssignmentSoln\Question4App\bin\Debug\net6.0\Question4App.runtimeconfig.json
+C:\Users\Welcome\source\repos\ArrayAssignmentSoln\Question4App\bin\Debug\net6.0\Question4App.dll
+C:\Users\Welcome\source\repos\ArrayAssignmentSoln\Question4App\bin\Debug\net6.0\Question4App.pdb
+C:\Users\Welcome\source\repos\ArrayAssignmentSoln\Question4App\obj\Debug\net6.0\Question4App.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\ArrayAssignmentSoln\Question4App\obj\Debug\net6.0\Question4App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\ArrayAssignmentSoln\Question4App\obj\Debug\net6.0\Question4App.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\ArrayAssignmentSoln\Question4App\obj\Debug\net6.0\Question4App.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\ArrayAssignmentSoln\Question4App\obj\Debug\net6.0\Question4App.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\ArrayAssignmentSoln\Question4App\obj\Debug\net6.0\Question4App.dll
+C:\Users\Welcome\source\repos\ArrayAssignmentSoln\Question4App\obj\Debug\net6.0\refint\Question4App.dll
+C:\Users\Welcome\source\repos\ArrayAssignmentSoln\Question4App\obj\Debug\net6.0\Question4App.pdb
+C:\Users\Welcome\source\repos\ArrayAssignmentSoln\Question4App\obj\Debug\net6.0\Question4App.genruntimeconfig.cache
+C:\Users\Welcome\source\repos\ArrayAssignmentSoln\Question4App\obj\Debug\net6.0\ref\Question4App.dll

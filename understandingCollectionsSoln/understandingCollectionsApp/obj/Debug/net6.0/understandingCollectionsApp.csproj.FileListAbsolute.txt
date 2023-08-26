@@ -1,0 +1,15 @@
+C:\Users\Welcome\source\repos\understandingCollectionsSoln\understandingCollectionsApp\bin\Debug\net6.0\understandingCollectionsApp.exe
+C:\Users\Welcome\source\repos\understandingCollectionsSoln\understandingCollectionsApp\bin\Debug\net6.0\understandingCollectionsApp.deps.json
+C:\Users\Welcome\source\repos\understandingCollectionsSoln\understandingCollectionsApp\bin\Debug\net6.0\understandingCollectionsApp.runtimeconfig.json
+C:\Users\Welcome\source\repos\understandingCollectionsSoln\understandingCollectionsApp\bin\Debug\net6.0\understandingCollectionsApp.dll
+C:\Users\Welcome\source\repos\understandingCollectionsSoln\understandingCollectionsApp\bin\Debug\net6.0\understandingCollectionsApp.pdb
+C:\Users\Welcome\source\repos\understandingCollectionsSoln\understandingCollectionsApp\obj\Debug\net6.0\understandingCollectionsApp.csproj.AssemblyReference.cache
+C:\Users\Welcome\source\repos\understandingCollectionsSoln\understandingCollectionsApp\obj\Debug\net6.0\understandingCollectionsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Welcome\source\repos\understandingCollectionsSoln\understandingCollectionsApp\obj\Debug\net6.0\understandingCollectionsApp.AssemblyInfoInputs.cache
+C:\Users\Welcome\source\repos\understandingCollectionsSoln\understandingCollectionsApp\obj\Debug\net6.0\understandingCollectionsApp.AssemblyInfo.cs
+C:\Users\Welcome\source\repos\understandingCollectionsSoln\understandingCollectionsApp\obj\Debug\net6.0\understandingCollectionsApp.csproj.CoreCompileInputs.cache
+C:\Users\Welcome\source\repos\understandingCollectionsSoln\understandingCollectionsApp\obj\Debug\net6.0\understandingCollectionsApp.dll
+C:\Users\Welcome\source\repos\understandingCollectionsSoln\understandingCollectionsApp\obj\Debug\net6.0\refint\understandingCollectionsApp.dll
+C:\Users\Welcome\source\repos\understandingCollectionsSoln\understandingCollectionsApp\obj\Debug\net6.0\understandingCollectionsApp.pdb
+C:\Users\Welcome\source\repos\understandingCollectionsSoln\understandingCollectionsApp\obj\Debug\net6.0\understandingCollectionsApp.genruntimeconfig.cache
+C:\Users\Welcome\source\repos\understandingCollectionsSoln\understandingCollectionsApp\obj\Debug\net6.0\ref\understandingCollectionsApp.dll

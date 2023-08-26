@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ClinicClassLibrary/1.0.0": {
+        "dependencies": {
+          "DoctorClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ClinicClassLibrary.dll": {}
+        }
+      },
+      "DoctorClassLibrary/1.0.0": {
+        "runtime": {
+          "DoctorClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClinicClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DoctorClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
